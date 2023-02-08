@@ -1,1 +1,1 @@
-ALX Software Engineering project on Git
+The ALX Software Engineering Project on Git
